@@ -1,0 +1,12 @@
+{
+  "latestVersion": 3,
+  "latest_db_version": 3,
+  "version": 3,
+  "latest_app_version": "1.2.0",
+  "release_date": "2026-07-10",
+  "critical_update": false,
+  "changelog": {
+    "ar": "إطلاق التحديث الشامل: إضافة 100 مصطلح رياضي وتعليمي مغطية الجبر والهندسة والإحصاء وإدارة الفصل.",
+    "en": "Mega Update: Added 100 core mathematical and pedagogical terms covering algebra, geometry, statistics, and classroom management."
+  }
+}
