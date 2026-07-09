@@ -1,0 +1,10 @@
+{
+  "latest_db_version": 2,
+  "latest_app_version": "1.1.0",
+  "release_date": "2026-07-10",
+  "critical_update": false,
+  "changelog": {
+    "ar": "إضافة ميزة النطق المكتوب بالحروف العربية وتقسيم الكلمات إلى مقاطع صوتية لسهولة التدريب، مع إضافة مصطلحات جديدة.",
+    "en": "Added Arabic transliteration guide, phonetic syllabification breakdown, and new core mathematical terms."
+  }
+}
